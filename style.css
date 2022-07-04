@@ -45,7 +45,7 @@ button{
      padding: 10px;
      width: 100%;
      color: white;
-     padding-bottom: 1rem;
+     /* padding-bottom: 1rem; */
      border-top-left-radius: .5rem;
      border-bottom-left-radius: .5rem;
      border-bottom-right-radius: .5rem;
